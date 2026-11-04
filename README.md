@@ -28,7 +28,7 @@ Python, AI and modern web technologies.
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,java,c,cpp,js,html,css,fastapi,react,mysql,postgres,git,github,vscode&perline=7" />
+<img src="https://skillicons.dev/icons?i=python,c,js,html,css,fastapi,react,mysql,postgres,git,github,vscode&perline=7" />
 
 </div>
 
